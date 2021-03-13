@@ -1,0 +1,11 @@
+[
+  {
+    "model": "student.Student",
+    "pk": 1,
+    "fields": {
+      "student_name": "Swati",
+      "student_age": 21,
+      "student_address": "hinghanghat, wardha, maharashtra"
+    }
+  }
+]
